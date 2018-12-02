@@ -78,6 +78,8 @@ import ebb_motion  # Requires v 0.15 in plotink     https://github.com/evil-mad/
 import ebb_serial  # Requires v 0.11 in plotink
 import inkex
 import plot_utils  # Requires v 0.10 in plotink
+
+# inkex は、inkScape のエクステンション用の何か
 ```
 
 
