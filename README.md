@@ -2,6 +2,7 @@
 
 axidraw  
 [https://axidraw.com/](https://axidraw.com/)  
+[https://wiki.evilmadscientist.com/AxiDraw](https://wiki.evilmadscientist.com/AxiDraw)  
 [https://github.com/evil-mad/axidraw](https://github.com/evil-mad/axidraw)  
 
 
