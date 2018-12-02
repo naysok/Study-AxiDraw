@@ -60,10 +60,10 @@ illustrator の SVG
 
 
 
-### マシンの制御  
+### マシンの制御方法とかちょっと見たい  
 
 
-作者のアカウントからソースコードを読む  
+作者の Github からソースコードを読む  
 [https://github.com/evil-mad](https://github.com/evil-mad)  
 
 
